@@ -1,7 +1,7 @@
 import telebot
 import random
 
-token = "6561323271:AAEljREUDPmbHhmNIvN7wlRxNxUdr5ByQms"
+token = ""
 
 bot = telebot.TeleBot(token)
 my_list = ["hi", "hello", "good", "bad", "day", "night", "lesson", "python", "year", "month"]
