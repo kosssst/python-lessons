@@ -4,8 +4,8 @@ This repo is for beginers in Python, who want to practice in using different lib
 
 ### Tasks:
 
-- [Creation of simple Telegram bot](task%201\task1.md)
-- [Data processing](task%202\task2.md)
+- [Creation of simple Telegram bot](task%201/task1.md)
+- [Data processing](task%202/task2.md)
 
 There also is [optional task](optional%20task/optionaltask.md) to show how hard is to break down 2048 bits of security.
 
