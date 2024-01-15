@@ -21,6 +21,3 @@ def random_message(message):
     bot.reply_to(message, rand_answer)
 
 bot.infinity_polling()
-
-
-# bot which answers on "how are you?" with random answer. It should understand both lowercase and uppercase letters.
